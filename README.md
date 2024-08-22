@@ -1,1 +1,1 @@
-Travel Landing Page 
+I started by setting up the basic structure of the landing page using HTML, ensuring that all sections were properly defined. Then, I styled the page with CSS, focusing on creating a visually appealing and responsive design. Once the page was complete, I tested it thoroughly to ensure everything worked as expected. Finally, I pushed the code to GitHub and deployed the site using Netlify, making it live and accessible.
